@@ -1,0 +1,16 @@
+---
+title: Test Post
+author: Ethergeist Research Desk
+date: '2019-02-17'
+slug: This is a test post
+categories: [test]
+tags: [test, R, formulas]
+---
+
+## Just Testing
+```{r}
+cat("Hello")
+```
+$$
+y = x^2
+$$
